@@ -10,5 +10,5 @@ nu1 = int(input("ingrese el primer numero"))
 num2 = int(input("ingrese el segundo numero"))
 
 suma = nu1 + num2
-print(f"la suma de los numeros es", {suma} "y su doble es", {suma * 2])
+print(f"la suma de los numeros es {suma} y su doble es {suma * 2}")
 
